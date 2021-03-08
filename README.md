@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning JAVA
+🌱 I’m currently learning Data Structure
 
 📫 How to reach me: luoyongjiavb@gmail.com
