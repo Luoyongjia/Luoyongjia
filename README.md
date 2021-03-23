@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Data Structure
+🌱 I’m currently learning Neural Architecture Search.
+
+😄 Pronouns: Keep your curiosity alive.
 
 📫 How to reach me: luoyongjiavb@gmail.com
