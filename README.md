@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Neural Architecture Search.
+🌱 I’m currently learning Self-supervised Learning.
 
 😄 Pronouns: Keep your curiosity alive.
 
