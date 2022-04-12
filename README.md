@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Self-supervised Learning.
+🌱 I’m currently learning Scene Flow.
 
 😄 Pronouns: Keep your curiosity alive.
 
