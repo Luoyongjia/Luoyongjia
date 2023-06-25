@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Scene Flow.
-
-😄 Pronouns: Keep your curiosity alive.
-
-📫 How to reach me: luoyongjiavb@gmail.com
